@@ -4,6 +4,14 @@ This repository contains links to must read blogs, must follow engineering blogs
 ---
 <br>
 <details open>
+<summary><b>Design Patterns - Learn with great graphics and examples</summary>
+
+> [Design Pattern](https://refactoring.guru/design-patterns)
+</details>
+
+---
+<br>
+<details open>
 <summary><b>Linux commands every programmers must know</summary>
 
 > [visit here](https://xmind.app/m/WwtB/)
