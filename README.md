@@ -4,8 +4,9 @@ This repository contains links to must read blogs, must follow engineering blogs
 
 [Linux Commands : Must know for every programmers](https://xmind.app/m/WwtB/)
 
+<details>
+<summary>Engineering Blogs you should follow:</summary>
 
-Engineering Blogs you should follow:<br>
 [Microsoft Tech](https://devblogs.microsoft.com/)<br>
 [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)<br>
 [Engineering at Meta](https://engineering.fb.com/)<br>
@@ -48,3 +49,4 @@ Engineering Blogs you should follow:<br>
 [All Things Distributed](https://www.allthingsdistributed.com/)<br>
 [Disney Streaming](https://medium.com/disney-streaming)<br>
 
+---
