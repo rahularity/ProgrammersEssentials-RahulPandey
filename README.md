@@ -1,10 +1,12 @@
-# ProgrammersEssentials-RahulPandey
+# Programmers Essentials by Rahul Pandey
 This repository contains links to must read blogs, must follow engineering blogs, must know shortcuts and must have programming essentials all the programmers should know to become a better programming each and every day.
 
+---
+<br>
 <details open>
 <summary><b>Linux commands every programmers must know</summary>
 
-[visit here](https://xmind.app/m/WwtB/)
+> [visit here](https://xmind.app/m/WwtB/)
 </details>
 
 ---
@@ -13,7 +15,7 @@ This repository contains links to must read blogs, must follow engineering blogs
 <details open>
 <summary><b>Engineering Blogs you should follow:</summary>
 
-[Microsoft Tech](https://devblogs.microsoft.com/)<br>
+> [Microsoft Tech](https://devblogs.microsoft.com/)<br>
 [Engineering at Microsoft](https://devblogs.microsoft.com/engineering-at-microsoft/)<br>
 [Engineering at Meta](https://engineering.fb.com/)<br>
 [Pinterest Engineering](https://medium.com/pinterest-engineering)<br>
